@@ -74,9 +74,13 @@ All findings were reviewed in conjunction with existing literature on mammalian 
 ## Output Files
 
 DEG_results_padj_0.05.csv – Significant DEGs (padj < 0.05)
+
 DGErank_Feline.rnk – Ranked gene list for GSEA PreRanked
+
 MA_plot.png, Heatmap_Top50Genes.png, PCA_Plot.png – Visualizations of DE and sample clustering
+
 TopGene_expression.png – Normalized counts of top metabolic gene
+
 NormTransExpIDs.txt – Expression matrix for Cytoscape
 
 ## Conclusion
