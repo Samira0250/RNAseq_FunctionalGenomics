@@ -8,7 +8,7 @@ This final project focuses on RNA-seq differential gene expression and enrichmen
 
 ## Data
 
-Raw single-end RNAseq data from testicular tissue were retrieved from the NCBI Sequence Read Archive (SRA) under BioProject PRJNA69086. A total of 12 datasets from 12 different dog breeds were selected. These datasets were divided into two size groups based on breed size according to the American Kennel Club's definitions. Samples used are listed in the table below:
+Raw single-end RNAseq data from testicular tissue were retrieved from the NCBI Sequence Read Archive (SRA) under BioProject PRJNA69086. A total of 12 datasets from 12 different dog breeds were selected. These datasets were divided into two size groups based on breed size according to the [American Kennel Club's](https://www.akc.org/) definitions. Samples used are listed in the table below:
 
 | SRR ID       | Breed              | Size Group |
 |--------------|-------------------|------------|
